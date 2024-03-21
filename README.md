@@ -1,4 +1,4 @@
-I have used this template to create my poortolio website!
+I have used this template to create my portolio website!
 # [Start Bootstrap - Grayscale](https://startbootstrap.com/theme/grayscale/)
 
 [Grayscale](https://startbootstrap.com/theme/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
